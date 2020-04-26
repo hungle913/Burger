@@ -1,4 +1,4 @@
-var orm = requires('../config/orms.js');
+var orm = require('../config/orms.js');
 
 var burger = {
     all: function(cb){
