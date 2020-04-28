@@ -8,7 +8,7 @@
                 {{#each burger_data}}
                     {{#unless this.DEVOURED}}
                         <div class="col-lg-9">
-                            <pre>{{this.id}}. {{this.BURGER_NAME}}</pre>
+                            <h3>{{this.id}}. {{this.BURGER_NAME}}</h3>
                         </div>
                         <div class="col-lg-3">
                             <form method="POST" action="/burgers/update" class="button">
