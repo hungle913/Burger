@@ -9,8 +9,11 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 This application is hosted on Heroku: [CLICK ME!]()
 
   1. You can place a new burger order into the app and submit it. 
+
     * This will add a new burger to the Eat Da Burger list.
+    
   2. Each burger in the `Eat Da Burger!` list has the option to Devour It. 
+
     * This will devour the burger and send it to the `Burgers Eaten!` list. 
 
 ## Screen Shots
