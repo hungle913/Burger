@@ -6,7 +6,7 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 
 ## To use the app
 
-This application is hosted on Heroku: [CLICK ME!]()
+This application is hosted on Heroku: [CLICK ME!](https://afternoon-ocean-63918.herokuapp.com/)
 
   1. You can place a new burger order into the app and submit it. 
 
