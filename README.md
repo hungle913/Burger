@@ -12,9 +12,9 @@ This application is hosted on Heroku: [CLICK ME!]()
 
     This will add a new burger to the Eat Da Burger list.
 
-  2. Each burger in the **Eat Da Burger!** list has the option to Devour It. 
+  2. Each burger in the EAT DA BURGER! list has the option to Devour It. 
 
-    This will devour the burger and send it to the **Burgers Eaten!** list. 
+    This will devour the burger and send it to the BURGERS EATEN! list. 
 
 ## Screen Shots
 
