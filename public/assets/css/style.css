@@ -1,3 +1,26 @@
 body {
     background-color: navajowhite;
 }
+
+#welcome {
+    text-align: center;
+    font-weight: bold;
+}
+
+#image_container {
+    text-align: center;
+}
+
+#new_burger {
+    text-align: center;
+    font-weight: bold;
+}
+
+#title {
+    text-align: center;
+    font-weight: bold;
+}
+
+#title-div {
+    background-color: thistle;
+}
