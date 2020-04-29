@@ -15,7 +15,7 @@ This application is hosted on Heroku: [CLICK ME!]()
 
 ## Screen Shots
 
-![Home](https://github.com/hungle913/FriendFinder/blob/master/app/public/Assets/images/Home.PNG?raw=true "Home Screen")
+![Home](https://github.com/hungle913/Burger/blob/master/public/assets/images/app.PNG?raw=true "Home Screen")
 
 ## Technologies Used
 
