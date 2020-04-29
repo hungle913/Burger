@@ -1,12 +1,25 @@
-<div id="image_container">
+<br>
 
+<div>
+    <h2>Welcome to Eat Da Burger!</h2> 
 </div>
+
+<br>
+
+<div id="image_container"></div>
+
+<br>
+
+<div>
+    <h2 id="new_burger">Would you like to order another burger?</h2>
+</div>
+
+<br>
 
 <div class="container">
     <div class="row">
         <div class="col-lg-12">
             <form action="/burgers/create" method="POST">
-                <label for="newBurger" id="new_burger_question">Welcome to Eat Da Burger! Would you like to order another burger?</label>
                 <input type="text" name="BURGER_NAME" class="form-control" id="enter_burger" value="">
                 <br>
                 <button type="submit" class="btn btn-primary">Submit</button>
